@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>OAuth callback</title>
+  </head>
+  <body>
+    <script>
+      // This page receives the ?code=... from Google and posts it to the opener window.
+      (function(){
+        try{
+          const params = new URLSearchParams(location.search || '')
+          const code = params.get('code')
+          const error = params.get('error')
+          // Post message back to the opener (main app). Use origin check there.
+          if(window.opener && !window.opener.closed){
+            window.opener.postMessage({ type: 'google_oauth', code: code, error: error }, location.origin)
+          }
+        }catch(e){
+          // ignore
+        }
+        // A tiny UI so user sees something before the window closes
+        document.body.innerText = 'Signing in... You can close this window.'
+        // Try to close after a short delay
+        setTimeout(()=>{ try{ window.close() }catch(e){} }, 1200)
+      })()
+    </script>
+  </body>
+</html>

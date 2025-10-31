@@ -1,0 +1,90 @@
+{
+  "appTitle": "SmartBudget",
+  "home": "Home",
+  "add": "Add Expense",
+  "analytics": "Analytics",
+  "profile": "Profile",
+  "currentBudget": "Current Budget",
+  "remaining": "Remaining",
+  "totalSpent": "Total spent",
+  "expenses": "Expenses",
+  "latestExpenses": "Latest expenses",
+  "addExpense": "Add Expense",
+  "viewAnalytics": "View Analytics",
+  "amount": "Amount",
+  "date": "Date",
+  "category": "Category",
+  "payment": "Payment",
+  "vendor": "Vendor",
+  "note": "Note",
+  "tags": "Tags",
+  "recurrence": "Recurrence",
+  "receipt": "Receipt",
+  "upload": "Upload",
+  "clear": "Clear",
+  "saveChanges": "Save changes",
+  "backToBudget": "Back to Budget",
+  "settings": "Settings",
+  "help": "Help",
+  "exportJSON": "Export JSON",
+  "importJSON": "Import JSON",
+  "lastSaved": "Last saved",
+  "expense": "Expense",
+  "title": "Title",
+  "delete": "Delete",
+  "cancel": "Cancel",
+  "noData": "No data",
+  "expensesByCategory": "Expenses by category",
+  "menu": "Menu",
+  "languageChanged": "Language changed",
+  "loading": "Loading…",
+  "save": "Save",
+  "budgetLabel": "Budget",
+  "enterTitle": "Enter a title",
+  "enterPositiveAmount": "Enter a positive amount",
+
+  "personalDetails": "Personal details",
+  "nameLabel": "Name",
+  "emailLabel": "Email",
+  "phoneLabel": "Phone",
+  "placeholderName": "Your full name",
+  "placeholderEmail": "you@company.com",
+  "placeholderPhone": "+1 555 5555",
+  "invalidEmail": "Enter a valid email",
+  "invalidPhone": "Enter a valid phone number",
+  "changeAvatar": "Change avatar",
+  "edit": "Edit",
+  "importSuccess": "Imported successfully",
+  "invalidJSON": "Invalid JSON"
+    ,"addressLabel":"Address"
+    ,"placeholderAddress":"Street, city, country"
+    ,"currencyLabel":"Currency"
+    ,"timezoneLabel":"Timezone"
+    ,"defaultPaymentLabel":"Default payment"
+    ,"notifications":"Notifications"
+    ,"yes":"Yes"
+    ,"no":"No"
+    ,"setDarkTheme":"Set dark theme"
+    ,"themeSet":"Theme set to dark"
+  ,"appearance":"Appearance"
+  ,"buttonPlacement":"Button placement"
+  ,"left":"Left"
+  ,"center":"Center"
+  ,"right":"Right"
+  ,"controls":"Controls"
+  ,"compactButtons":"Compact buttons"
+  ,"resetAppearance":"Reset appearance"
+  ,"register":"Register"
+  ,"password":"Password"
+  ,"confirmPassword":"Confirm password"
+  ,"passwordTooShort":"Password must be at least 6 characters"
+  ,"passwordsNoMatch":"Passwords do not match"
+  ,"emailTaken":"Email already registered"
+  ,"enterName":"Enter your name"
+  ,"login":"Login"
+  ,"alreadyHaveAccount":"Already have an account?"
+  ,"signInWithGoogle":"Sign in with Google"
+  ,"configureGoogle":"Configure Google Client ID in Appearance settings"
+  ,"googleClientId":"Google Client ID"
+  ,"googleClientIdPlaceholder":"Enter Google OAuth client ID here"
+}

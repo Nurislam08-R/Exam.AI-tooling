@@ -1,0 +1,90 @@
+{
+  "appTitle": "SmartBudget",
+  "home": "Главная",
+  "add": "Добавить расход",
+  "analytics": "Аналитика",
+  "profile": "Профиль",
+  "currentBudget": "Текущий бюджет",
+  "remaining": "Остаток",
+  "totalSpent": "Всего потрачено",
+  "expenses": "Траты",
+  "latestExpenses": "Последние траты",
+  "addExpense": "Добавить расход",
+  "viewAnalytics": "Посмотреть аналитику",
+  "amount": "Сумма",
+  "date": "Дата",
+  "category": "Категория",
+  "payment": "Оплата",
+  "vendor": "Магазин",
+  "note": "Заметка",
+  "tags": "Теги",
+  "recurrence": "Повторение",
+  "receipt": "Чек",
+  "upload": "Загрузить",
+  "clear": "Очистить",
+  "saveChanges": "Сохранить",
+  "backToBudget": "Назад к бюджету",
+  "settings": "Настройки",
+  "help": "Помощь",
+  "exportJSON": "Экспорт JSON",
+  "importJSON": "Импорт JSON",
+  "lastSaved": "Сохранено",
+  "expense": "Транзакция",
+  "title": "Название",
+  "delete": "Удалить",
+  "cancel": "Отмена",
+  "noData": "Данных нет",
+  "expensesByCategory": "Траты по категориям",
+  "menu": "Меню",
+  "languageChanged": "Язык изменён",
+  "loading": "Загрузка…",
+  "save": "Сохранить",
+  "budgetLabel": "Бюджет",
+  "enterTitle": "Введите название",
+  "enterPositiveAmount": "Введите положительную сумму",
+
+  "personalDetails": "Личные данные",
+  "nameLabel": "Имя",
+  "emailLabel": "Email",
+  "phoneLabel": "Телефон",
+  "placeholderName": "Ваше полное имя",
+  "placeholderEmail": "you@company.com",
+  "placeholderPhone": "+1 555 5555",
+  "invalidEmail": "Введите корректный email",
+  "invalidPhone": "Введите корректный номер телефона",
+  "changeAvatar": "Сменить аватар",
+  "edit": "Изменить",
+  "importSuccess": "Импорт завершён",
+  "invalidJSON": "Неверный JSON"
+  ,"addressLabel":"Адрес"
+  ,"placeholderAddress":"Улица, город, страна"
+  ,"currencyLabel":"Валюта"
+  ,"timezoneLabel":"Часовой пояс"
+  ,"defaultPaymentLabel":"Способ оплаты по умолчанию"
+  ,"notifications":"Уведомления"
+  ,"yes":"Да"
+  ,"no":"Нет"
+  ,"setDarkTheme":"Сделать тёмную тему"
+  ,"themeSet":"Тема установлена: тёмная"
+  ,"register":"Регистрация"
+  ,"password":"Пароль"
+  ,"confirmPassword":"Подтвердите пароль"
+  ,"passwordTooShort":"Пароль должен быть не менее 6 символов"
+  ,"passwordsNoMatch":"Пароли не совпадают"
+  ,"emailTaken":"Email уже зарегистрирован"
+  ,"enterName":"Введите ваше имя"
+  ,"login":"Вход"
+  ,"alreadyHaveAccount":"Уже есть аккаунт?"
+  ,"signInWithGoogle":"Войти через Google"
+  ,"configureGoogle":"Укажите Google Client ID в настройках" 
+  ,"googleClientId":"Google Client ID"
+  ,"googleClientIdPlaceholder":"Введите Google OAuth client ID"
+  ,"appearance":"Внешний вид"
+  ,"buttonPlacement":"Расположение кнопки"
+  ,"left":"Слева"
+  ,"center":"По центру"
+  ,"right":"Справа"
+  ,"controls":"Элементы управления"
+  ,"compactButtons":"Компактные кнопки"
+  ,"resetAppearance":"Сбросить вид"
+}
